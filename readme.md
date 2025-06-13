@@ -1,9 +1,9 @@
-# Unity Tool Kit
+# Unity Editor Utilities
 
 
 ## Description
 
-### Create .anim files
+### Create animation clips
 
 #### Feature
 
@@ -13,13 +13,12 @@
 
 #### Usage
 
-- Right-click in the Hierarchy window and select "Unity Tool Kit >> Create .anim files"
+- Right-click in the Hierarchy window and select "Animation >> Create animation clips"
   - Generated animation files are saved in the "Assets/Exports/" folder
   - The folder will be automatically created if it doesn't exist
-  - Each .anim file is saved with the corresponding blend shape name
+  - Each animation clip is saved with the corresponding blend shape name
 
 
 ## License
 
 GPLv3
-
